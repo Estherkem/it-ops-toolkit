@@ -1,0 +1,7 @@
+primaryEmail,suspended,isAdmin,isEnrolledIn2Sv,lastLoginTime
+alex.admin@example.com,False,True,False,2026-10-10T09:15:00.000Z
+bella.ok@example.com,False,False,True,2026-10-12T08:01:00.000Z
+chris.no2sv@example.com,False,False,False,2026-10-01T12:00:00.000Z
+dana.leaver@example.com,False,False,True,2026-03-02T17:45:00.000Z
+eli.new@example.com,False,False,False,1970-01-01T00:00:00.000Z
+fran.suspended@example.com,True,False,True,2026-01-15T10:00:00.000Z
